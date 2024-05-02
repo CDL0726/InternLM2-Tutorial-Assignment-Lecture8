@@ -2,7 +2,7 @@
 # 第八课 大模型微调数据构造
 [第8课视频](https://www.bilibili.com/video/BV1Dx4y1z7Ju/?share_source=copy_web&vd_source=47e542edac1449ad64dfdd48f87dc45b)    
 
-2024.4.26  
+2024.4.26  OpenDataLab团队 商富凯
 
 # 第8课 笔记    
 

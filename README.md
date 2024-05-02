@@ -1,6 +1,6 @@
 # InternLM2-Tutorial-Assignment-Lecture8    
 # 第八课 大模型微调数据构造
-[第8课视频](![image](https://www.bilibili.com/video/BV1Dx4y1z7Ju/?share_source=copy_web&vd_source=47e542edac1449ad64dfdd48f87dc45b)    
+[第8课视频](https://www.bilibili.com/video/BV1Dx4y1z7Ju/?share_source=copy_web&vd_source=47e542edac1449ad64dfdd48f87dc45b)    
 
 2024.4.26  
 
@@ -27,7 +27,7 @@
   
   ![](finetuning3.png)
 
-  ## 微调的方式
+## 微调的方式
 
   - 从参数规模的角度划分：
     - 全量微调 (Full Fine Tuning)    
